@@ -1,0 +1,26 @@
+.visual-jvtab {
+  background: #3a3f51;
+  height: 100%;
+  transition: width 0.2s;
+  display: flex;
+  box-shadow: 1px 0 0px #ccc;
+  ul {
+    height: 100%;
+    width: 50px;
+    li {
+      width: 100%;
+      height: 60px;
+      padding-left: 2px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  .visual-jvtab-pane {
+    background: #fff;
+    height: 100%;
+    width: calc(100% - 50px);
+    transition: width 0.2s;
+  }
+}
