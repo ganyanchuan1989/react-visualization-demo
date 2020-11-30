@@ -56,3 +56,12 @@ AppVO                           // 应用VO
     - DefaultContainerVO        // 容器嵌套容器
 ```
 
+
+## 想弄个前端打工者群，有愿意的一起哈
+
+![](./docs/v2.png)
+
+
+个人V
+
+![](./docs/v.png)
