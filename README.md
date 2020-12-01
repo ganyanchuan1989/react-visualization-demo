@@ -59,9 +59,9 @@ AppVO                           // 应用VO
 
 ## 想弄个前端打工者群，有愿意的一起哈
 
-![](./docs/v2.png)
+![](./docs/v3.png)
 
 
 个人V
 
-![](./docs/v.png)
+![](./docs/v4.png)
